@@ -9,11 +9,9 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class Item {
 
-//修改后的111色拉酱二十
+//修改后的111
 	private Integer id;
-//lkejlksjfl
 	private String name;
-	
 	private Integer number;
-	
-}
+	}
+
